@@ -87,4 +87,7 @@ Hence, this is how the process of CRM Portal is automated using RPA Solution.</p
 Youtube: 
 
 
+Project's Report: [Link](./Project_Report.pdf)
+
+
 

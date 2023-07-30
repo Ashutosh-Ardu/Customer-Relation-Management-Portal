@@ -15,9 +15,11 @@ More Info on UIPATH: [Link](https://www.uipath.com/company/about-us)
 - [Live Demonstration](#live-demonstration)
 
 ## Website Deployment
-### <img src=(./Photos/icon1.png) padding-left=5px/> Customer Data
+### <img src='./Photos/icon1.png' padding-left=3px align = 'left' width = '35' height = '35'/> Customer Data Portal
 
-A Google Contact Webapp clone<br>
+
+
+<br>A Google Contact Webapp clone<br>
 
 Getting Started<br>
 
@@ -57,7 +59,7 @@ MobX - Javascript state management library.<br>
 ## Project's Workflow
 
 <p align = 'center'>
-  <img src='./Photos/workflow.png' width = 50%/>
+  <img src='./Photos/workflow.png' width = 40%/>
 </p>
 
 Steps involved:

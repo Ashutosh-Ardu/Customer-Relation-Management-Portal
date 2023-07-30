@@ -1,0 +1,12 @@
+Name : Lance Lynch
+Email : lance.lynch@example.com
+PhNo : 916 429-5593
+Name : Bobbie Barrett
+Email : bobbie.barrett@example.com
+PhNo : 243 774-7959
+Name : Edgar Rodriguez
+Email : edgar.rodriguez@example.com
+PhNo : 325 968-7081
+Name : Mae Prescott
+Email : mae.prescott@example.com
+PhNo : 472 622-6925

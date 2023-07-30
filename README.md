@@ -1,5 +1,5 @@
-## Customer-Relation-Management-Portal Automation using RPA Solutions (UIPATH)
-CRM Portal which is a clone of the Google Contact app in the form of a Web App using React JS FrontEnd Framework with TailWind CSS Framework and Mobx JS library.
+## Customer-Relationship-Management-Portal Automation using RPA Solutions (UIPATH)
+CRM Portal which is a clone of the Google Contact app in the form of a Web App using React JS FrontEnd Framework with TailWind CSS Framework and Mobx JS library. RPA Solutions have been applied to automate the customer's information loading process onto the database/server/cloud.
 
 ## What is UIPATH?
 A platform that provides RPA Solutions to automate menial tasks like browsing the net or online shopping. It is an AI-powered Platform that combines leading robotic process automation (RPA) with a full suite of capabilities to understand, automate, and operate end-to-end processes, offering unprecedented time to value.<br>
@@ -84,7 +84,7 @@ Hence, this is how the process of CRM Portal is automated using RPA Solution.</p
 
 
 ## Live Demonstration
-Youtube: 
+Youtube: https://youtu.be/zQnmdhP6IOo
 
 
 Project's Report: [Link](./Project_Report.pdf)
